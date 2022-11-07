@@ -9,9 +9,9 @@ class mydetail
 
 $myObj=new mydetail();
 
-$myObj->name="Abbas";
-$myObj->age=30;
-$myObj->email="abbas@gmail.com";
+$myObj->name="Rishi";
+$myObj->age=20;
+$myObj->email="rishi@gmail.com";
 
 $myJSON = json_encode($myObj);
 
